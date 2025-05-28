@@ -1,5 +1,3 @@
-# Assignment No.4
-
 ## Exercise 1:
 
 1. Implement an integer queue using a singly linked list with the following operations:  
