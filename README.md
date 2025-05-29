@@ -38,7 +38,6 @@ Expected result: \( 4 \rightarrow 3 \rightarrow 2 \rightarrow 1 \)
 
 Example: enqueue 101, 102, 103 → serve 101 → "Client 101 served" → queue: 102 → 103
 
-A. ZAHID    1
 
 # Exercise 6:
 
